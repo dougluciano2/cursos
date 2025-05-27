@@ -18,7 +18,7 @@ Este documento reúne os repositórios criados como parte de cursos realizados p
 
 ---
 
-## 🔺 [crua-angular-material](https://github.com/dougluciano2/crua-angular-material)
+## 🔺 [crud-angular-material](https://github.com/dougluciano2/crud-angular-material)
 
 > **Tecnologia:** Angular + Angular Material  
 > **Descrição:** Projeto de estudo que aplica componentes do Angular Material para criação de uma interface moderna e responsiva. Inclui uso de `mat-table`, `mat-toolbar`, `mat-form-field` e outros elementos visuais seguindo as diretrizes do Material Design.
